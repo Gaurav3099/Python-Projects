@@ -1,0 +1,17 @@
+Python Text to Speech:
+pkg : pip install pyttsx3
+
+Speech Recognition
+pkg : pip install SpeechRecognition
+
+Wikipedia
+pkg : pip install wikipedia
+
+Screenshot
+pkg : pip install pyautogui
+
+CPU & Battery
+pkg : pip install psutil
+
+Jokes function
+pkg : pip install pyjokes
